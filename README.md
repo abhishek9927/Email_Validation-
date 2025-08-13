@@ -1,8 +1,3 @@
-Here’s a clean **README.md** file for your email validation project:
-
----
-
-```markdown
 # 📧 Email Validation Script (Python)
 
 This is a simple **Email Validation Program** written in Python.  
@@ -28,42 +23,3 @@ It checks whether a given email address follows basic formatting rules and print
 3. Prints `"Right Email"` or `"Wrong Email"` based on the checks.
 
 ## 📂 Project Structure
-```
-
-📦 EmailValidator
-├── email\_validator.py   # Main script
-├── README.md            # Project documentation
-
-````
-
-## 📋 Example Usage
-```bash
-$ python email_validator.py
-Enter your Email : test@example.com
-Right Email
-````
-
-```bash
-$ python email_validator.py
-Enter your Email : Test@ Example.com
- wrong Email 5
-```
-
-## 📌 Requirements
-
-* Python 3.x (no external libraries required)
-
-## 💡 Future Improvements
-
-* Add **regex-based validation** for more accuracy
-* Support **multiple domain extensions**
-* Implement **GUI version** for user-friendly input
-
-## 🖋 Author
-
-**Abhishek**
-📅 Created: 2025
-
-
-
-
